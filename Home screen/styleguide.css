@@ -1,0 +1,89 @@
+:root { 
+  --anzac: #e0b630;
+  --black: #000000;
+  --black-2: #000000b2;
+  --cararra: #edece8;
+  --caribbean-green-pearl: #6ecfa0;
+  --charm: #da7489;
+  --orange-yellow: #f9d06f;
+  --sonic-silver: #757575;
+  --white: #ffffff;
+ 
+  --font-size-l: 27.5px;
+  --font-size-m: 24px;
+  --font-size-s: 20px;
+  --font-size-xs: 18.7px;
+  --font-size-xxs: 16px;
+  --font-size-xxxs: 10px;
+  --font-size-xxxxs: 9px;
+ 
+  --font-family-poppins: "Poppins", Helvetica;
+  --font-family-zilla_slab: "Zilla Slab", Helvetica;
+}
+.zillaslab-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-zilla_slab);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-normal-sonic-silver-18-7px {
+  color: var(--sonic-silver);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-sonic-silver-9px {
+  color: var(--sonic-silver);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-black-18-7px {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-sonic-silver-10px {
+  color: var(--sonic-silver);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-semi-bold-black-27-5px {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.border-1-2px-black-2 {
+  border: 1.2px solid var(--black-2);
+}

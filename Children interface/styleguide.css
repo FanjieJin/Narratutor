@@ -1,0 +1,20 @@
+:root { 
+  --black: #000000;
+  --black-2: #000000b2;
+  --charm: #da7489;
+  --sonic-silver: #777674;
+  --white: #ffffff;
+ 
+  --font-size-m: 23.5px;
+  --font-size-s: 18.2px;
+  --font-size-xs: 16px;
+  --font-size-xxs: 13.6px;
+  --font-size-xxxs: 8.8px;
+ 
+  --font-family-lato: "Lato", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+  --font-family-zilla_slab: "Zilla Slab", Helvetica;
+}
+.border-1-2px-black-2 {
+  border: 1.2px solid var(--black-2);
+}
